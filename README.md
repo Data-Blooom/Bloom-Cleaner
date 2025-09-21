@@ -49,13 +49,13 @@ The entire UI is fully bilingual and can be switched between Persian (فارسی
     <td align="center" style="border: none;">
       <b>Persian Interface (رابط کاربری فارسی)</b>
       <br>
-      ![Persian Interface](Bloom-Cleaner-FA.png)
+      <img src="Bloom-Cleaner-FA.png" alt="Persian Interface" width="400">
       <br>
     </td>
     <td align="center" style="border: none;">
       <b>English Interface</b>
       <br>
-      ![English Interface](Bloom-Cleaner-EN.png)
+      <img src="Bloom-Cleaner-EN.png" alt="English Interface" width="400">
       <br>
     </td>
   </tr>
