@@ -49,7 +49,7 @@ The entire UI is fully bilingual and can be switched between Persian (فارسی
     <td align="center" style="border: none;">
       <b>Persian Interface (رابط کاربری فارسی)</b>
       <br>
-      ![Persian Interface](Bloom-Cleaner-FA.png)
+      ![Design File Organizer](Photoshop-File-Organizer.png)
       <br>
     </td>
     <td align="center" style="border: none;">
