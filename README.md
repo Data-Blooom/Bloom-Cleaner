@@ -51,14 +51,12 @@ The entire UI is fully bilingual and can be switched between Persian (فارسی
       <br>
 ![Persian Interface](Bloom-Cleaner-FA.png)
       <br>
-      <code>[INSERT PERSIAN UI SCREENSHOT HERE]</code>
     </td>
     <td align="center" style="border: none;">
       <b>English Interface</b>
       <br>
 ![English Interface](Bloom-Cleaner-EN.png)
       <br>
-      <code>[INSERT ENGLISH UI SCREENSHOT HERE]</code>
     </td>
   </tr>
 </table>
